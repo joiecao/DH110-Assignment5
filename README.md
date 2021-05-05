@@ -37,7 +37,7 @@
 Notes
 
 ### Part Picker Tool
-![test2](test2.png)
+![test2](test2.jpg)
 
 Notes
 
