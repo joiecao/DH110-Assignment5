@@ -9,7 +9,21 @@
 
 **Features & Tasks:** 
 
+1. Experience quiz- a short, 3 question quiz to determine the experience level of a new user, budget, and assessing the purpose of their build (ie gaming, art, streaming, etc). 
+
+2. Part Picker Tool- Suggest a build with parts based on the user's quiz results. The user will be able to edit the build. 
+
+3. Tutorial Hub- a place to browse helpful articles and videos. 
+
+## Wireframes & Wireflow
+
+[Experience Quiz](https://framer.com/share/yLPz9OJkEBDmllgA1wFc/Ub3jYJKZX)
+
+Part Picker Tool
+
+Tutorial Hub
+
+## Testing
 
 
-
-Brief summary of user-research, persona and three+ features you wrote as usage scenario; The purpose of this low-fidelity prototyping
+## Reflection
