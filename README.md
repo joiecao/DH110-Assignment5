@@ -21,9 +21,11 @@
 
 ![exp](exp.png)
 
-Part Picker Tool
+### Part Picker Tool
 
-Tutorial Hub
+### [Tutorial Hub](https://framer.com/share/Scroll--glveGE14RYMvfNC7aeBu/EtmYk_avt)
+
+![tut](tut.png)
 
 ## Testing
 
