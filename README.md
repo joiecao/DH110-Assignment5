@@ -32,6 +32,17 @@
 
 ## Testing
 
+### Experience Quiz
+[Video] 
+Notes
 
+### Part Picker Tool
+![test2](test2.png)
+
+Notes
+
+### Tutorial Hub
+[Video] 
+Notes 
 
 ## Reflection
