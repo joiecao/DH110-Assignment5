@@ -11,23 +11,27 @@
 
 1. Experience quiz- a short, 3 question quiz to determine the experience level of a new user, budget, and assessing the purpose of their build (ie gaming, art, streaming, etc). 
 
-2. Part Picker Tool- Suggest a build with parts based on the user's quiz results. The user will be able to edit the build. 
+2. Part Picker Tool- Suggest a build with parts based on the user's quiz results. The user will be able to edit the build and see similar recommended items.
 
 3. Tutorial Hub- a place to browse helpful articles and videos. 
 
 ## Wireframes & Wireflow
 
-### [Experience Quiz](https://framer.com/share/yLPz9OJkEBDmllgA1wFc/Ub3jYJKZX)
+### [Experience Quiz](https://framer.com/share/yLPz9OJkEBDmllgA1wFc/Ub3jYJKZX) (interactive)
 
 ![exp](exp.png)
 
 ### Part Picker Tool
 
-### [Tutorial Hub](https://framer.com/share/Scroll--glveGE14RYMvfNC7aeBu/EtmYk_avt)
+![rec](rec.jpg)
+
+
+### [Tutorial Hub](https://framer.com/share/Scroll--glveGE14RYMvfNC7aeBu/EtmYk_avt) (interactive)
 
 ![tut](tut.png)
 
 ## Testing
+
 
 
 ## Reflection
