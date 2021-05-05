@@ -17,7 +17,9 @@
 
 ## Wireframes & Wireflow
 
-[Experience Quiz](https://framer.com/share/yLPz9OJkEBDmllgA1wFc/Ub3jYJKZX)
+### [Experience Quiz](https://framer.com/share/yLPz9OJkEBDmllgA1wFc/Ub3jYJKZX)
+
+![exp](exp.png)
 
 Part Picker Tool
 
